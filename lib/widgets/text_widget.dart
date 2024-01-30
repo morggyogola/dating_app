@@ -17,7 +17,7 @@ class TextWidget extends StatelessWidget{
       text,
       textAlign: textAlign,
       style: TextStyle(
-        color: Colors.black,
+        color: color,
         fontSize: fontSize,
         fontFamily: "Montserrat",
         fontWeight: fontWeight,
